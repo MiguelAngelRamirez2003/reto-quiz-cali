@@ -22,8 +22,6 @@ La aplicación busca ofrecer una interfaz sencilla e intuitiva para que los usua
 
 La información del proyecto se encuentra organizada dentro del repositorio. Los datos utilizados por la aplicación se almacenan en la carpeta:
 
-[Escribir aquí la ubicación real de los datos dentro del proyecto].
-
 ## 5. Ejecución del proyecto
 
 La aplicación será desarrollada en Python utilizando Tkinter para la creación de su interfaz gráfica.
