@@ -11,7 +11,7 @@ class ErrorBanco(Exception):
 
 
 def cargar_preguntas(ruta=RUTA_POR_DEFECTO) -> list:
-    """Devuelve la lista de Pregunta; lanza ErrorBanco con un mensaje comprensible."""
+    """Devuelve la lista de Pregunta; lanza Error con un mensaje."""
     try:
         with open(ruta, encoding="utf-8") as archivo:
             registros = json.load(archivo)
