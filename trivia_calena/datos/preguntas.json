@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "enunciado": "¿En qué año fue fundada Santiago de Cali por Sebastián de Belalcázar?",
+    "opciones": [
+      "1492",
+      "1536",
+      "1810",
+      "1910"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 2,
+    "enunciado": "¿Cuál es el apodo más conocido de Cali?",
+    "opciones": [
+      "La Ciudad de la Eterna Primavera",
+      "La Ciudad Bonita",
+      "La Sucursal del Cielo",
+      "La Puerta de Oro de Colombia"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 3,
+    "enunciado": "¿Qué festival, realizado cada año en Cali, exalta la música y la cultura del Pacífico colombiano?",
+    "opciones": [
+      "Festival Vallenato",
+      "Festival Iberoamericano de Teatro",
+      "Carnaval de Barranquilla",
+      "Festival Petronio Álvarez"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 4,
+    "enunciado": "¿En qué mes se celebra tradicionalmente la Feria de Cali?",
+    "opciones": [
+      "Febrero",
+      "Julio",
+      "Diciembre",
+      "Octubre"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 5,
+    "enunciado": "¿Quién es el artista creador de la escultura del Gato del Río?",
+    "opciones": [
+      "Fernando Botero",
+      "Hernando Tejada",
+      "Édgar Negret",
+      "Débora Arango"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 6,
+    "enunciado": "¿Cómo se llama el monumento que corona el Cerro de los Cristales y es uno de los símbolos de Cali?",
+    "opciones": [
+      "Cristo Rey",
+      "Cristo de la Concordia",
+      "Monumento a las Banderas",
+      "Virgen de Monserrate"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 7,
+    "enunciado": "¿Cuál es el postre típico de Cali que lleva hielo raspado, frutas, leche condensada y jarabes?",
+    "opciones": [
+      "Cocadas",
+      "Arequipe",
+      "Cholado",
+      "Obleas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 8,
+    "enunciado": "¿Con qué ingredientes principales se prepara el pandebono vallecaucano?",
+    "opciones": [
+      "Harina de trigo y panela",
+      "Almidón de yuca y queso",
+      "Plátano maduro y queso",
+      "Maíz y carne"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 9,
+    "enunciado": "¿Qué evento deportivo internacional se realizó en Cali en 1971?",
+    "opciones": [
+      "Juegos Olímpicos",
+      "Juegos Centroamericanos",
+      "Juegos Panamericanos",
+      "Juegos Suramericanos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 10,
+    "enunciado": "¿Cómo se llama el río que cruza la ciudad y junto al cual está el Boulevard del Río?",
+    "opciones": [
+      "Río Magdalena",
+      "Río Cali",
+      "Río Atrato",
+      "Río Putumayo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 11,
+    "enunciado": "¿Qué novela romántica del escritor caleño Jorge Isaacs está ambientada en el Valle del Cauca?",
+    "opciones": [
+      "La vorágine",
+      "El carnero",
+      "María",
+      "Cien años de soledad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 12,
+    "enunciado": "¿Quién es el autor de la novela \"¡Que viva la música!\", ambientada en la Cali de los años 70?",
+    "opciones": [
+      "Álvaro Mutis",
+      "Fernando Vallejo",
+      "Gabriel García Márquez",
+      "Andrés Caicedo"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 13,
+    "enunciado": "¿Qué canción del Grupo Niche es considerada un himno salsero de Cali?",
+    "opciones": [
+      "La Rebelión",
+      "Cali Pachanguero",
+      "Colombia, tierra querida",
+      "El Preso"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 14,
+    "enunciado": "¿Qué equipo de fútbol caleño es conocido como los \"Diablos Rojos\"?",
+    "opciones": [
+      "Atlético Nacional",
+      "América de Cali",
+      "Deportivo Cali",
+      "Millonarios"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 15,
+    "enunciado": "¿A qué personaje histórico rinde homenaje la Plaza de Caicedo, en el centro de Cali?",
+    "opciones": [
+      "Simón Bolívar",
+      "Francisco de Paula Santander",
+      "Sebastián de Belalcázar",
+      "Joaquín de Caicedo y Cuero"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 16,
+    "enunciado": "¿De qué departamento es capital Cali?",
+    "opciones": [
+      "Cauca",
+      "Valle del Cauca",
+      "Nariño",
+      "Chocó"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 17,
+    "enunciado": "¿Cuál es el principal puerto del Pacífico colombiano, ubicado en el Valle del Cauca?",
+    "opciones": [
+      "Buenaventura",
+      "Tumaco",
+      "Cartagena",
+      "Santa Marta"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 18,
+    "enunciado": "¿En qué municipio está ubicado el aeropuerto internacional Alfonso Bonilla Aragón, que sirve a Cali?",
+    "opciones": [
+      "Yumbo",
+      "Jamundí",
+      "Palmira",
+      "Candelaria"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 19,
+    "enunciado": "¿Cómo se llama el sistema de transporte masivo de Cali?",
+    "opciones": [
+      "TransMilenio",
+      "Metroplús",
+      "MIO",
+      "Transcaribe"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 20,
+    "enunciado": "¿Cuál de estos platos típicos vallecaucanos es un plátano maduro frito relleno de queso?",
+    "opciones": [
+      "Patacón",
+      "Aborrajado",
+      "Tamal",
+      "Arepa de choclo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 21,
+    "enunciado": "¿Qué bebida típica del Valle se prepara con maíz, lulo, piña y panela?",
+    "opciones": [
+      "Champús",
+      "Lulada",
+      "Aguapanela",
+      "Masato"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 22,
+    "enunciado": "¿Cómo se llama el museo de arte moderno y contemporáneo de Cali, ubicado cerca del río Cali?",
+    "opciones": [
+      "Museo del Oro",
+      "Museo Botero",
+      "Museo Nacional",
+      "Museo La Tertulia"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 23,
+    "enunciado": "¿Qué dramaturgo caleño fundó el Teatro Experimental de Cali (TEC)?",
+    "opciones": [
+      "Santiago García",
+      "Enrique Buenaventura",
+      "Jorge Isaacs",
+      "Andrés Caicedo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": 24,
+    "enunciado": "¿Qué Parque Nacional Natural, ubicado al occidente de Cali, protege parte de la cordillera Occidental?",
+    "opciones": [
+      "Los Nevados",
+      "Tayrona",
+      "Chingaza",
+      "Farallones de Cali"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": 25,
+    "enunciado": "¿Cómo se llama el espectáculo de salsa, circo y danza creado en Cali y conocido internacionalmente?",
+    "opciones": [
+      "Delirio",
+      "Salsódromo",
+      "Tropicana",
+      "Caliwood"
+    ],
+    "correcta": 0
+  }
+]
